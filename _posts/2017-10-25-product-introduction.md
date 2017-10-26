@@ -3,6 +3,7 @@ layout: post
 title:  "产品介绍"
 date:   2017-10-25 10:40:47 +0800
 categories: jekyll update
+pageName: introduction
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

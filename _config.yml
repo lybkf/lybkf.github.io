@@ -17,7 +17,8 @@ title: 兰意
 tagline: 安心的家，从兰意开始
 background: {
   home: '文艺02.jpg',
-  about: '简约02.jpg'
+  about: '简约02.jpg',
+  introduction: '复古01.jpg'
 }
 email: 33097987@qq.com
 description: > # this means to ignore newlines until "baseurl:"
