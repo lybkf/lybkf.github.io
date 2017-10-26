@@ -3,3 +3,9 @@
 ---
 
 @import "minima";
+
+.background-pic {
+  position: absolute;
+  top: 0;
+  right: calc(50% + 400px);
+}
