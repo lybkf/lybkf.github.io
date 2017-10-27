@@ -17,14 +17,17 @@ title: 兰意
 tagline: 安心的家，从兰意开始
 background: {
   home: '文艺02.jpg',
-  about: '简约02.jpg',
-  introduction: '复古01.jpg'
+  contact: '简约02.jpg',
+  product: '简约03.jpg',
+  about: '复古01.jpg',
+  join: '复古03.jpg',
+  credential: '简约01.jpg',
+  jobsite: '复古04.jpg'
 }
+header_pages : ['product.md', 'about.md', 'join.md', 'credential.md', 'contact.md']
 email: 33097987@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  当您搬新家，当您装修老房子, 当您忌惮乳胶漆、硅藻泥、壁纸等等的弊端，请您选择兰意贝壳粉
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
