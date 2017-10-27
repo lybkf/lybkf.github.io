@@ -22,7 +22,9 @@ background: {
   about: '复古01.jpg',
   join: '复古03.jpg',
   credential: '简约01.jpg',
-  jobsite: '复古04.jpg'
+  jobsite: '复古04.jpg',
+  workflow: '文艺01.jpg',
+  sample: '简约04.jpg'
 }
 header_pages : ['product.md', 'about.md', 'join.md', 'credential.md', 'contact.md']
 email: 33097987@qq.com
