@@ -4,13 +4,58 @@
 
 @import "minima";
 
+.site-header {
+  background-color: #2196F3;
+}
+
+.site-title, .site-title:visited, .site-title:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.site-nav .page-link, .site-nav .page-link:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.site-nav .page-link:hover {
+  font-weight: bold;
+}
+
 .background-pic {
   position: absolute;
   top: 0;
   right: calc(50% + 400px);
 }
 
+.post-meta {
+	float: right
+}
+
 .post-content img {
   margin-bottom: 10px;  
 }
 
+.carousel-inner {
+  width: 90%;
+  left: 5%;
+}
+
+.carousel-control {
+  width: 5%;	
+}
+
+.carousel-indicators li {
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  border-width: 2px;
+  margin: 3px;
+}
+
+.carousel-indicators .active {
+	width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  margin: 3px;
+}

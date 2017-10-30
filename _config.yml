@@ -24,10 +24,15 @@ background: {
   credential: '简约01.jpg',
   jobsite: '复古04.jpg',
   workflow: '文艺01.jpg',
-  sample: '简约04.jpg'
+  sample: '简约04.jpg',
+  workvideo: '复古02.jpg'
 }
 header_pages : ['product.md', 'about.md', 'join.md', 'credential.md', 'contact.md']
-email: 33097987@qq.com
+contact: {
+  email: '33097987@qq.com',
+  telephone: '0335-5979009'
+}
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   当您搬新家，当您装修老房子, 当您忌惮乳胶漆、硅藻泥、壁纸等等的弊端，请您选择兰意贝壳粉
 baseurl: "" # the subpath of your site, e.g. /blog
