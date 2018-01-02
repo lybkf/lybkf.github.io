@@ -2,7 +2,7 @@
 layout: post
 title:  视频集锦
 date:   2017-10-28 10:40:47 +0800
-categories: jekyll update
+categories: users video
 pageName: workvideo
 ---
 #### 我们尊重每一个客户的独具匠心：
@@ -51,11 +51,3 @@ pageName: workvideo
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-
-
-
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
