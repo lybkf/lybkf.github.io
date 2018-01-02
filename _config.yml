@@ -37,8 +37,7 @@ description: > # this means to ignore newlines until "baseurl:"
   当您搬新家，当您装修老房子, 当您忌惮乳胶漆、硅藻泥、壁纸等等的弊端，请您选择兰意贝壳粉
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+weixin_username: xhw33097987
 
 # Build settings
 markdown: kramdown
